@@ -1,0 +1,5 @@
+J:\Gold Tree Emulator 3.0\Gold Tree Emulator 3.0\bin\Release\Gold Tree Emulator 3.0.exe
+J:\Gold Tree Emulator 3.0\Gold Tree Emulator 3.0\bin\Release\Gold Tree Emulator 3.0.pdb
+J:\Gold Tree Emulator 3.0\Gold Tree Emulator 3.0\obj\Release\Gold Tree Emulator 3.0.exe
+J:\Gold Tree Emulator 3.0\Gold Tree Emulator 3.0\obj\Release\Gold Tree Emulator 3.0.pdb
+J:\Gold Tree Emulator 3.0\Gold Tree Emulator 3.0\obj\Release\Gold Tree Emulator 3.0.csprojResolveAssemblyReference.cache

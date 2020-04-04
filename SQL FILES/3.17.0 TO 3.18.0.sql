@@ -1,0 +1,1 @@
+ALTER TABLE  `user_stats` ADD  `lev_custom1` INT( 10 ) NOT NULL DEFAULT  '0' AFTER  `lev_explore` ;

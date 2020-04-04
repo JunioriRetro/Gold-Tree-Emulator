@@ -1,0 +1,13 @@
+26.4.2014 21:04:19: Error: MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at GoldTree.Storage.DatabaseClient.ExecuteQuery(String sQuery) in c:\Users\admin\Gold-Tree-Emulator-3\Gold Tree Emulator 3.0\Storage\DatabaseClient.cs:line 32
+   at GoldTree.Communication.Messages.FriendStream.EventStreamingLikeButton.Handle(GameClient session, ClientMessage message) in c:\Users\admin\Gold-Tree-Emulator-3\Gold Tree Emulator 3.0\Communication\Messages\FriendStream\EventStreamingLikeButton.cs:line 26
+   at GoldTree.HabboHotel.GameClients.GameClient.ParsePacket(Byte[]& bytes) in c:\Users\admin\Gold-Tree-Emulator-3\Gold Tree Emulator 3.0\HabboHotel\GameClients\GameClient.cs:line 577
+

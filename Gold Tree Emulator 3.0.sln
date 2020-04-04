@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold Tree Emulator 3.0", "Gold Tree Emulator 3.0\Gold Tree Emulator 3.0.csproj", "{B3350D0F-80E0-425B-B6C4-26C4297FE972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3350D0F-80E0-425B-B6C4-26C4297FE972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3350D0F-80E0-425B-B6C4-26C4297FE972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3350D0F-80E0-425B-B6C4-26C4297FE972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3350D0F-80E0-425B-B6C4-26C4297FE972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_BuildVersioningStyle = None.None.None.None
+		BuildVersion_StartDate = 2013/10/21
+		BuildVersion_UpdateAssemblyVersion = False
+		BuildVersion_UpdateFileVersion = False
+		BuildVersion_AssemblyInfoFilename = 
+	EndGlobalSection
+EndGlobal
